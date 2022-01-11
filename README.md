@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![peepoCoffee](https://cdn.betterttv.net/emote/61d7339206fd6a9f5bdfa1c3/3x)
+
 <!--
 **SealGitHub/SealGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
