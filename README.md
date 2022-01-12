@@ -1,5 +1,7 @@
 ## 👋
-##### Just sippin
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/175689556757053440)](#)
+
 ![peepoCoffee](https://cdn.betterttv.net/emote/61d7339206fd6a9f5bdfa1c3/3x)
 
 <!--
